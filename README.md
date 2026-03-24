@@ -1,5 +1,5 @@
 ## Proje Açıklaması
-Bu projede, Twitter veri seti kullanılarak **Doğal Dil İşleme (NLP)** kapsamında kapsamlı bir **metin ön işleme (text preprocessing) pipeline** oluşturulmuştur. Amaç, ham (kirli) metin verisini temizleyerek makine öğrenmesi modelleri için daha anlamlı ve kullanılabilir hale getirmektir.
+Bu projede, Twitter veri seti kullanılarak **Doğal Dil İşleme (NLP)** bir **metin ön işleme (text preprocessing) pipeline** oluşturulmuştur. Amaç, metin verisini temizleyerek makine öğrenmesi modelleri için daha anlamlı ve kullanılabilir hale getirmektir.
 
 ---
 
