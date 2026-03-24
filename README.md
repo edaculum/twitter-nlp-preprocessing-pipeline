@@ -6,6 +6,9 @@ Bu projede, Twitter veri seti kullanılarak **Doğal Dil İşleme (NLP)** kapsam
 ## 📊 Veri Seti
 Projede Kaggle üzerinden indirilen Twitter veri seti kullanılmıştır. Veri seti:
 
+🔗 Dataset Linki:  
+https://www.kaggle.com/datasets/durgeshrao9993/twitter-analysis-dataset-2022
+
 - Tweet metinlerinden (`tweet`)
 - Duygu etiketlerinden (`label`)
 
