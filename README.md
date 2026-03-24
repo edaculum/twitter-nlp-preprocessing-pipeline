@@ -20,7 +20,7 @@ oluşmaktadır. Gereksiz `id` kolonu kaldırılarak veri sadeleştirilmiştir.
 - ZIP dosyası açılarak CSV dosyası okunmuştur  
 - Veri seti temel olarak incelenmiştir (`shape`, `columns`, `info`, `value_counts`)  
 
----
+
 
 ### 2. Metin Ön İşleme (Text Preprocessing)
 
